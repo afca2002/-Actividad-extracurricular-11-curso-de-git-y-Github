@@ -1,4 +1,4 @@
-print("new Hola Git")
+print(" hello Github")
 # Diccionario de comandos de Git y su descripción
 
 git_commands = {
